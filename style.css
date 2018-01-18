@@ -1,0 +1,25 @@
+body {
+}
+.firstline {
+	text-align: center;
+	font-family: "Monospace";
+	position: absolute;
+	top: 200px;
+	left: 300px;
+	font-size: 50px;
+}
+.secondline {
+	text-align: center;
+	font-family: "monospace";
+	position: absolute;
+	top: 250px;
+	left: 300px;
+	font-size: 50px;
+}
+img {
+  position: fixed;
+  top: 60%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
+}
