@@ -2,15 +2,15 @@ body {
 }
 .firstline {
 	text-align: center;
-	font-family: "Monospace";
 	position: absolute;
 	top: 200px;
 	left: 300px;
 	font-size: 50px;
+	font-family: 'Quicksand', sans-serif;
 }
 .secondline {
 	text-align: center;
-	font-family: "monospace";
+	font-family: 'Quicksand', sans-serif;
 	position: absolute;
 	top: 250px;
 	left: 300px;
