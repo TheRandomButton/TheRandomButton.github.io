@@ -2,7 +2,7 @@ body {
 }
 .firstline {
 	text-align: center;
-	position: absolute;
+	position: relative;
 	top: 100px;
 	left: 700px;
 	font-size: 70px;
