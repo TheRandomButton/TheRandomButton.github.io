@@ -2,17 +2,19 @@ body {
 }
 .firstline {
 	text-align: center;
-	position: center;
-	font-size: 70px;
-	font-family: 'Charmonman', cursive;
+	position: absolute;
+	top: 200px;
+	left: 300px;
+	font-size: 50px;
+	font-family: 'Quicksand', sans-serif;
 }
 .secondline {
 	text-align: center;
-	font-family: 'Charmonman', cursive;
-	position: relative;
-	top: 150px;
-	left: 400px;
-	font-size: 70px;
+	font-family: 'Quicksand', sans-serif;
+	position: absolute;
+	top: 250px;
+	left: 300px;
+	font-size: 50px;
 }
 img {
   position: fixed;
