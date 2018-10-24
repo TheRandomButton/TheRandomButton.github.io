@@ -11,7 +11,7 @@ body {
 .secondline {
 	text-align: center;
 	font-family: 'Charmonman', cursive;
-	position: absolute;
+	position: relative;
 	top: 350px;
 	left: 400px;
 	font-size: 70px;
