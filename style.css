@@ -2,9 +2,7 @@ body {
 }
 .firstline {
 	text-align: center;
-	position: relative;
-	top: 100px;
-	left: 400px;
+	position: center;
 	font-size: 70px;
 	font-family: 'Charmonman', cursive;
 }
