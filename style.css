@@ -5,7 +5,7 @@ body {
 	position: absolute;
 	top: 200px;
 	left: 300px;
-	font-size: 50px;
+	font-size: 70px;
 	font-family: 'Charmonman', cursive;
 }
 .secondline {
@@ -14,7 +14,7 @@ body {
 	position: absolute;
 	top: 250px;
 	left: 300px;
-	font-size: 50px;
+	font-size: 70px;
 }
 img {
   position: fixed;
