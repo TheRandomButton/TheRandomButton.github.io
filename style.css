@@ -16,6 +16,9 @@ body {
 	left: 300px;
 	font-size: 50px;
 }
+.secondline, .firstline {
+	margin 100px;
+}
 img {
   position: fixed;
   top: 60%;
