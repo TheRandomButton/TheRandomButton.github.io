@@ -15,11 +15,9 @@ body {
 	font-size: 50px;
 }
 .secondline, .firstline {
-	margin: 10px;
 	font-family: 'Quicksand', sans-serif;
 }
 img {
-  position: fixed;
   top: 60%;
   left: 50%;
 }
