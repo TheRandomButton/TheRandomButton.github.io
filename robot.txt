@@ -5,3 +5,4 @@ Disallow: /googleb83968c0b80d128d.html
 Disallow: /random.html
 Disallow: /style.css
 Disallow: /Button.json
+Disallow: /favicon.iso
