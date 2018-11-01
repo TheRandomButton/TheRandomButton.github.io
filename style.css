@@ -18,7 +18,9 @@ body {
 	font-family: 'Quicksand', sans-serif;
 }
 img {
-  position: absolute;
+  position: fixed;
   top: 60%;
   left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
 }
