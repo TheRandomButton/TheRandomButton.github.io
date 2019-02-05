@@ -3,8 +3,8 @@ body {
 .firstline {
 	text-align: center;
 	position: absolute;
-	top: 200px;
-	left: 300px;
+	top: 50%;
+	left: 50%;
 	font-size: 50px;
 }
 .secondline {
@@ -18,9 +18,9 @@ body {
 	font-family: 'Quicksand', sans-serif;
 }
 img {
-  position: fixed;
-  top: 60%;
-  left: 50%;
-  margin-top: -50px;
-  margin-left: -100px;
+  	position: fixed;
+ 	 top: 60%;
+ 	 left: 50%;
+ 	 margin-top: -50px;
+ 	 margin-left: -100px;
 }
