@@ -2,13 +2,13 @@ body {
 }
 .firstline {
 	position: fixed;
-	top: 70%;
+	top: 40%;
 	left: 50%;
 	font-size: 50px;
 }
 .secondline {
 	position: fixed;
-	top: 60%;
+	top: 30%;
 	left: 50%;
 	font-size: 50px;
 }
