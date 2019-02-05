@@ -1,13 +1,13 @@
 body {
 }
 .firstline {
-	position: absolute;
+	position: fixed;
 	top: 70%;
 	left: 50%;
 	font-size: 50px;
 }
 .secondline {
-	position: absolute;
+	position: fixed;
 	top: 60%;
 	left: 50%;
 	font-size: 50px;
@@ -16,7 +16,7 @@ body {
 	font-family: 'Quicksand', sans-serif;
 }
 img {
-  	position: absolute;
+  	position: fixed;
  	 top: 50%;
  	 left: 50%;
 }
