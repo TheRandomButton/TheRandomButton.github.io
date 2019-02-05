@@ -8,8 +8,8 @@ body {
 }
 .secondline {
 	position: absolute;
-	top: 60px;
-	left: 50px;
+	top: 60%;
+	left: 50%;
 	font-size: 50px;
 }
 .secondline, .firstline {
