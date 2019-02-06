@@ -1,17 +1,18 @@
+body 
 .firstline {
 	font-size: 50px;
 	text-align: center;
-	line-height: 10px:
+
 }
 
 .secondline {
 	font-size: 50px;
 	text-align: center;
-	line-height: inherit;
 }
 
 .secondline, .firstline {
 	font-family: 'Quicksand', sans-serif;
+	line-height: .7;
 }
 
 img {
