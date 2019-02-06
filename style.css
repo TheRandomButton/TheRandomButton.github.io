@@ -1,4 +1,6 @@
-body 
+body {
+	margin:0 auto;
+}
 .firstline {
 	font-size: 50px;
 	text-align: center;
@@ -15,13 +17,7 @@ body
 	line-height: .7;
 }
 
-.secondline, .firstline, img {
-	position: fixed; 
-	/* This code centers the screen*/
-  	top: 50%;
-  	left: 50%;
-	
-}
+
 img {
 	display: block;
 	margin-right: auto;
