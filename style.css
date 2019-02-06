@@ -1,14 +1,14 @@
 .firstline {
 	position: fixed;
 	font-size: 50px;
-	text-allign: center;
+	text-align: center;
 	line-height: 10px:
 }
 
 .secondline {
 	position: fixed;
 	font-size: 50px;
-	text-allign: center;
+	text-align: center;
 }
 
 .secondline, .firstline {
@@ -18,5 +18,5 @@ img {
   	position: fixed;
  	top: 50%;
  	left: 50%;
-	text-allign: center;
+	text-align: center;
 }
