@@ -44,9 +44,9 @@
 	   	
 		
 		<script language="javascript" type="text/javascript">
-			$("button").click(function(){
- 				alert("The paragraph was clicked.");
-			});
+			function button() {
+				document.getElementById(firstline).style.property = color: #202020;
+			}
 		</script>
 	    
 	   </head>
@@ -54,7 +54,7 @@
 	  
 	        <h1 class="firstline" id="firstline" >The Random</h1>
 		<h1 class="secondline" id="secondline">Button</h1>
-		<a href="random.html" onclick="function() "target="_blank"><img src="New_Button.jpg" width="120" height="120"></a>
+		<a href="random.html" onclick="button() "target="_blank"><img src="New_Button.jpg" width="120" height="120"></a>
 
       </body>
       
