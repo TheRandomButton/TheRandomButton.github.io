@@ -1,9 +1,9 @@
 User-agent: *
 Allow: /index.html
-Disallow: /New_Button.jpg
-Disallow: /googleb83968c0b80d128d.html
+Disallow: images/New_Button.jpg
+Disallow: googleb83968c0b80d128d.html
 Disallow: /random.html
 Disallow: /style.css
 Disallow: /Button.json
-Disallow: /favicon.ico
+Disallow: images/favicon.ico
 Disallow: /404.html
