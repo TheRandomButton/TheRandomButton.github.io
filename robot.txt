@@ -6,3 +6,4 @@ Disallow: /random.html
 Disallow: /style.css
 Disallow: /Button.json
 Disallow: /favicon.ico
+Disallow: /404.html
