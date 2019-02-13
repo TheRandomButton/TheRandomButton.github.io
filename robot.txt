@@ -7,3 +7,4 @@ Disallow: /style.css
 Disallow: /Button.json
 Disallow: images/favicon.ico
 Disallow: /404.html
+Disallow: images/button.png
