@@ -50,9 +50,15 @@
 				document.getElementById('firstline').style.property = color: #202020;
 			}
 		</script>
+		   
+		<script type = "text/JavaScript">
+            	function AutoRefresh( t ) {
+                setTimeout("location.reload(true);", t);
+           	}
+      </script>
 	    
 	   </head>
-      <body> 
+      <body onload = "JavaScript:AutoRefresh(60000);> 
 	  
 	        <h1 class="firstline" id="firstline" >The Random</h1>
 		<h1 class="secondline" id="secondline">Button</h1>
